@@ -48,12 +48,12 @@ Intenta hacer ping a 8.8.8.8 (Google DNS).
 
 Indica si el equipo tiene conexión a Internet o no.
 
-Ejemplo de uso:
+## Ejemplo de uso:
 
 PS C:\> .\Ejercicio2\Check-Internet.ps1
 Conexión a Internet disponible.
 
-Qué aprendí
+## Qué aprendí
 
 A estructurar un repositorio en GitHub con carpetas por ejercicios.
 
@@ -61,13 +61,13 @@ A documentar scripts con comentarios y secciones estándar (.SYNOPSIS, .DESCRIPT
 
 A trabajar con control de versiones usando GitHub Desktop y commits descriptivos.
 
-Notas de seguridad
+## Notas de seguridad
 
 No subir al repositorio contraseñas, tokens o claves API.
 
 Usar siempre .gitignore para archivos sensibles o temporales.
 
-Licencia
+## Licencia
 
 Este proyecto está bajo la licencia MIT, por lo que puede usarse con fines académicos o personales.
 
